@@ -1,4 +1,6 @@
 # Dayflow – Human Resource Management System (HRMS)
+![WhatsApp Image 2026-01-03 at 5 13 29 PM](https://github.com/user-attachments/assets/255ec0cd-b0c5-48cc-8c82-a584c0c5d81a)
+
 
 ## 1. Introduction
 
